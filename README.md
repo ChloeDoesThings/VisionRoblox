@@ -1,2 +1,2 @@
 # VisionRoblox
-A work-in-progress advanced Roblox anti-exploit and anti-tamper for your games!
+Vision is an advanced (WIP) Roblox game anti-exploit made to prevent exploiters from ruining your game using various methods.
